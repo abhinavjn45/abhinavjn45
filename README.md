@@ -42,24 +42,18 @@
 
 ### 📊 GitHub Stats
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding-right: 10px;">
-      <a href="https://github.com/abhinavjn45" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhinavjn45&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Abhinav's GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" style="border: none; padding-left: 10px;">
-      <a href="https://github.com/abhinavjn45" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavjn45&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/abhinavjn45">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhinavjn45&amp;show_icons=true&amp;theme=nord&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/abhinavjn45">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavjn45&amp;layout=compact&amp;theme=nord&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" height="195" alt="Top Languages" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/abhinavjn45" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavjn45&theme=nord&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavjn45&amp;theme=nord&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakNum=C9D1D9" alt="GitHub Streak" />
   </a>
 </p>
 
