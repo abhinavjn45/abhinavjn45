@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <span style="background: rgba(110, 231, 183, 0.1); color: #6ee7b7; padding: 4px 12px; border-radius: 999px; font-weight: 700; letter-spacing: 0.5px; border: 1px solid rgba(110, 231, 183, 0.3);">• OPEN TO WORK</span>
-</p>
-
-<p align="center">
   <em>Full-stack developer crafting elegant solutions. Passionate about web development, open-source, and developer experience.</em>
 </p>
 
