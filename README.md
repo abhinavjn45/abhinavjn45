@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <span style="background: rgba(110, 231, 183, 0.1); color: #6ee7b7; padding: 4px 12px; border-radius: 999px; font-weight: 700; letter-spacing: 0.5px; border: 1px solid rgba(110, 231, 183, 0.3);">🟢 OPEN TO WORK</span>
+  <span style="background: rgba(110, 231, 183, 0.1); color: #6ee7b7; padding: 4px 12px; border-radius: 999px; font-weight: 700; letter-spacing: 0.5px; border: 1px solid rgba(110, 231, 183, 0.3);">• OPEN TO WORK</span>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ---
 
-### 💻 Tech Stack
+### // Tech Stack
 <p align="left">
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=f7df1e&color=111827&labelColor=111827" alt="JavaScript" />
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### // GitHub Stats
 
 <p align="center">
   <a href="https://github.com/abhinavjn45">
@@ -66,15 +66,15 @@
 
 ---
 
-### 🚀 Featured Projects
+### // Featured Projects
 
-| 📁 [Hostel-Leave-Complaint-Management](https://github.com/abhinavjn45/Hostel-Leave-Complaint-Management-System) | 📁 [Fitness-Center-Management](https://github.com/abhinavjn45/Fitness-Center-Management-System) |
+| [Hostel-Leave-Complaint-Management](https://github.com/abhinavjn45/Hostel-Leave-Complaint-Management-System) | [Fitness-Center-Management](https://github.com/abhinavjn45/Fitness-Center-Management-System) |
 | :--- | :--- |
-| **Streamlining university/hostel operations digitally**<br/><br/>🟣 PHP &nbsp;&nbsp;⭐ 12 &nbsp;&nbsp; 🍴 4 | **Managing gym memberships and workout plans**<br/><br/>🟡 JavaScript &nbsp;&nbsp;⭐ 8 &nbsp;&nbsp; 🍴 2 |
+| **Streamlining university/hostel operations digitally**<br/><br/>PHP &nbsp;&nbsp;★ 12 &nbsp;&nbsp; ⑂ 4 | **Managing gym memberships and workout plans**<br/><br/>JavaScript &nbsp;&nbsp;★ 8 &nbsp;&nbsp; ⑂ 2 |
 
-| 📁 [NGO-Management-System](https://github.com/abhinavjn45/NGO-Management-System) | 📁 [shopping-behaviour](https://github.com/abhinavjn45/shopping-behaviour) |
+| [NGO-Management-System](https://github.com/abhinavjn45/NGO-Management-System) | [shopping-behaviour](https://github.com/abhinavjn45/shopping-behaviour) |
 | :--- | :--- |
-| **Digitalizing NGO organizational workflows**<br/><br/>🟣 PHP &nbsp;&nbsp;⭐ 6 &nbsp;&nbsp; 🍴 1 | **Data analysis on customer purchase patterns**<br/><br/>🔵 Python &nbsp;&nbsp;⭐ 9 &nbsp;&nbsp; 🍴 3 |
+| **Digitalizing NGO organizational workflows**<br/><br/>PHP &nbsp;&nbsp;★ 6 &nbsp;&nbsp; ⑂ 1 | **Data analysis on customer purchase patterns**<br/><br/>Python &nbsp;&nbsp;★ 9 &nbsp;&nbsp; ⑂ 3 |
 
 ---
 <p align="center">
