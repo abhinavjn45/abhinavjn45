@@ -64,13 +64,27 @@
 
 ### // Featured Projects
 
-| [Hostel-Leave-Complaint-Management](https://github.com/abhinavjn45/Hostel-Leave-Complaint-Management-System) | [Fitness-Center-Management](https://github.com/abhinavjn45/Fitness-Center-Management-System) |
-| :--- | :--- |
-| **Streamlining university/hostel operations digitally**<br/><br/>PHP &nbsp;&nbsp;★ 12 &nbsp;&nbsp; ⑂ 4 | **Managing gym memberships and workout plans**<br/><br/>JavaScript &nbsp;&nbsp;★ 8 &nbsp;&nbsp; ⑂ 2 |
-
-| [NGO-Management-System](https://github.com/abhinavjn45/NGO-Management-System) | [shopping-behaviour](https://github.com/abhinavjn45/shopping-behaviour) |
-| :--- | :--- |
-| **Digitalizing NGO organizational workflows**<br/><br/>PHP &nbsp;&nbsp;★ 6 &nbsp;&nbsp; ⑂ 1 | **Data analysis on customer purchase patterns**<br/><br/>Python &nbsp;&nbsp;★ 9 &nbsp;&nbsp; ⑂ 3 |
+<p align="center">
+  <a href="https://github.com/abhinavjn45/wickets_ai">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhinavjn45&amp;repo=wickets_ai&amp;hide_border=true&amp;bg_color=111827&amp;title_color=6ee7b7&amp;icon_color=818cf8&amp;text_color=c9d1d9" width="400" alt="Wickets AI" />
+  </a>
+  <a href="https://github.com/abhinavjn45/rang-exhibition">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhinavjn45&amp;repo=rang-exhibition&amp;hide_border=true&amp;bg_color=111827&amp;title_color=6ee7b7&amp;icon_color=818cf8&amp;text_color=c9d1d9" width="400" alt="Rang Exhibition" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/abhinavjn45/revelations2026">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhinavjn45&amp;repo=revelations2026&amp;hide_border=true&amp;bg_color=111827&amp;title_color=6ee7b7&amp;icon_color=818cf8&amp;text_color=c9d1d9" width="400" alt="Revelations 2026" />
+  </a>
+  <a href="https://github.com/abhinavjn45/teamBAR">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhinavjn45&amp;repo=teamBAR&amp;hide_border=true&amp;bg_color=111827&amp;title_color=6ee7b7&amp;icon_color=818cf8&amp;text_color=c9d1d9" width="400" alt="Team BAR" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/abhinavjn45/propertease_product-side">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhinavjn45&amp;repo=propertease_product-side&amp;hide_border=true&amp;bg_color=111827&amp;title_color=6ee7b7&amp;icon_color=818cf8&amp;text_color=c9d1d9" width="400" alt="Propertease Product-Side" />
+  </a>
+</p>
 
 ---
 <p align="center">
