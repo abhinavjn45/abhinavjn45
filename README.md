@@ -44,10 +44,10 @@
 
 <p align="center">
   <a href="https://github.com/abhinavjn45">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhinavjn45&amp;show_icons=true&amp;theme=nord&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhinavjn45&amp;show_icons=true&amp;theme=nord&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/abhinavjn45">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavjn45&amp;layout=compact&amp;theme=nord&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=abhinavjn45&amp;layout=compact&amp;theme=nord&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" height="195" alt="Top Languages" />
   </a>
 </p>
 
