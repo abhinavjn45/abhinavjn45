@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://abhinavjain.site" target="_blank">
+  <a href="https://abhinavjain.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23111827.svg?style=for-the-badge&logo=firefox&logoColor=%2360a5fa" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/abhinavjain45/" target="_blank">
